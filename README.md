@@ -74,17 +74,6 @@ Make sure you have:
    - 📈 **Reports**  
    - ⚙️ **Settings**  
 
----
-
-## 📷 Screenshots
-> Replace `screenshots/demo1.png` with your actual images  
-
-| Dashboard | Billing |
-|-----------|---------|
-| ![](screenshots/demo1.png) | ![](screenshots/demo2.png) |
-
----
-
 ## 📂 File Structure
 ```
 ├── assets/
